@@ -1,0 +1,18 @@
+################################################################################
+#                                                                              #
+#           RankAPI & RankSystem by SuperKlug for Tavaria.de                   #
+#                           © SuperKlug 2018                                   #
+#                                                                              #
+################################################################################
+
+Messages:
+  Prefix: '&4•&c● Rang &8▍ &7'
+  NoPermissions: 'Du hast keinen Zugriff auf diesen Befehl&8.'
+  UnknownCommand: 'Dieser Befehl existiert nicht&8.'
+
+MongoDB:
+  Hostname: 127.0.0.1
+  Port: 27017
+  Database:
+  Username:
+  Password:

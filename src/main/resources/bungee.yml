@@ -1,0 +1,4 @@
+name: RankSystem
+author: SuperKlug
+version: 1.0-SNAPSHOT
+main: de.superklug.mygames.rankapi.bungeecord.RankAPI
